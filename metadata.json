@@ -1,0 +1,7 @@
+{
+  "name": "X-Racer: Kitbash Commanders",
+  "description": "An immersive XR starfighter drone racing simulator where you pilot custom-built ships through challenging courses. Features physics-based flight and AI-generated mission briefings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
